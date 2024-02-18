@@ -2,4 +2,4 @@
 
 ## Recursos
 - [nesting selector](https://developer.mozilla.org/en-US/docs/Web/CSS/Nesting_selector)
-- [:last-child](https://developer.mozilla.org/es/docs/Web/CSS/:last-child)
+- [:last-child](https://developer.mozilla.org/es/docs/Web/CSS/:last-child)# simple-card-flexbox-nesting-selector
